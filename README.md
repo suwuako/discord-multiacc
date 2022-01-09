@@ -12,7 +12,7 @@ none rn lol
 
 ## License
 
-GNU General Public Licence v3.0
+GNU General Public License v3.0
 
 ## Contributors
 
