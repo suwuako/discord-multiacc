@@ -17,3 +17,6 @@ GNU General Public Licence v3.0
 ## Contributors
 
 megumin00
+
+chocorho
+
