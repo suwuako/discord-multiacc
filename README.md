@@ -1,6 +1,6 @@
 # discord-multiacc
 
-hobbist project to utilise multiple discord accounts with selenium to get user tokens and some black magic
+hobbyist project to utilise multiple discord accounts with selenium to get user tokens and some black magic
 
 ## Dependencies (havent developed yet lol)
 
@@ -12,8 +12,11 @@ none rn lol
 
 ## License
 
-GNU General Public Licence v3.0
+GNU General Public License v3.0
 
 ## Contributors
 
 megumin00
+
+chocorho
+
